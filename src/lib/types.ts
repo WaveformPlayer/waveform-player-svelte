@@ -20,7 +20,7 @@
  *   - `WaveformPlayerExpose` — the imperative API exported by the
  *     component instance, reachable through `bind:this`.
  *
- * @see {@link https://github.com/arraypress/waveform-player} — core library
+ * @see {@link https://github.com/WaveformPlayer/waveform-player} — core library
  */
 import type {
 	WaveformPlayer,

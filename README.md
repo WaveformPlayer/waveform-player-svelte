@@ -2,11 +2,11 @@
 
 # Waveform Player for Svelte
 
-**Svelte 5 component wrapper for [`@arraypress/waveform-player`](https://github.com/arraypress/waveform-player).**
+**Svelte 5 component wrapper for [`@arraypress/waveform-player`](https://github.com/WaveformPlayer/waveform-player).**
 Typed props for every option, callback props, an exported imperative API, and SSR-safe mounting.
 
 [![npm version](https://img.shields.io/npm/v/@arraypress/waveform-player-svelte?style=flat-square&labelColor=09090b&color=3f3f46)](https://www.npmjs.com/package/@arraypress/waveform-player-svelte)
-[![license](https://img.shields.io/npm/l/@arraypress/waveform-player-svelte?style=flat-square&labelColor=09090b&color=3f3f46)](https://github.com/arraypress/waveform-player-svelte/blob/main/LICENSE)
+[![license](https://img.shields.io/npm/l/@arraypress/waveform-player-svelte?style=flat-square&labelColor=09090b&color=3f3f46)](https://github.com/WaveformPlayer/waveform-player-svelte/blob/main/LICENSE)
 
 **[Documentation](https://docs.waveformplayer.com/)** &middot; [npm](https://www.npmjs.com/package/@arraypress/waveform-player-svelte)
 
