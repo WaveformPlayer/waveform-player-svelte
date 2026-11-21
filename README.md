@@ -1,6 +1,6 @@
 <div align="center">
 
-# Waveform Player for Svelte
+# WaveformPlayer for Svelte
 
 **Svelte 5 component wrapper for [`@arraypress/waveform-player`](https://github.com/WaveformPlayer/waveform-player).**
 Typed props for every option, callback props, an exported imperative API, and SSR-safe mounting.
